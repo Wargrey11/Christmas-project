@@ -1,0 +1,21 @@
+button {
+
+    background-color: rgb(255, 0, 0);
+    width: 496px;
+    height: 140px;
+    font-size: 60px;
+    color: aliceblue;
+    font-family: Brush Script MT;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%, -50%);
+    border: none;
+    border-radius: 30px;
+
+} 
+body    {
+    background-image: url("pattern-xmas.jpg");
+    margin: 0;
+    
+}
